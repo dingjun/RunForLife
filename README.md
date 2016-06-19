@@ -1,2 +1,2 @@
 # Run For Life
-Player and other NPC preys have to run away from hunter's capture to be able to survive as long as possible. This code sample of the simple survival game is implemented with the help of AI controler and behavior tree of Unreal Engine 4.
+Run For Life is a simple survival game implemented with Unreal Engine 4. Player and other NPC preys have to run away from hunter's capture as long as possible. This code sample package includes the functionality of AI for hunter and prey, such as AI controllers and leaf task nodes of behavior tree.
